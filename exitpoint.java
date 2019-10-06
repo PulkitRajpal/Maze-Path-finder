@@ -28,6 +28,7 @@ public class exitpoint {
 				row++;
 				if (row == arr.length) {
 					row--;
+					
 					System.out.println(row + " " + col);
 					break;
 				}
